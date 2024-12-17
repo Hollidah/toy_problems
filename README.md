@@ -196,4 +196,5 @@ console.log(gradeGenerator(89)); // Output: "A"
 console.log(gradeGenerator(72)); // Output: "B"
 console.log(gradeGenerator(42)); // Output: "D"
 console.log(gradeGenerator(39)); // Output: "E"
-# toy_problems
+
+Author: Hollidah Chemutai
